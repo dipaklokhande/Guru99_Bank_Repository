@@ -16,7 +16,7 @@ import com.guru99_bank.configurations.Config;
 import com.guru99_bank.pom.Loginpom;
 import com.guru99_bank.utilities.TestDataClass;
 
-public class Login_TC01 extends BeforeAndAfterClass {
+public class Login_TC extends BeforeAndAfterClass {
 		
 	@Test
 	public void TC01()throws EncryptedDocumentException, IOException {
